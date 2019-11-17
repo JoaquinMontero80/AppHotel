@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Nov 17 23:00:43 CET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-7b61-e493-000006fb4250 
+on database directory C:\Users\rafae\Desktop\di-t2-apphotel-dingo-masterv2\BDHotel with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/rafae/Desktop/di-t2-apphotel-dingo-masterv2/dist/run501567503/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\rafae\Desktop\di-t2-apphotel-dingo-masterv2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 17 23:01:45 CET 2019:
+Shutting down instance a816c00e-016e-7b61-e493-000006fb4250 on database directory C:\Users\rafae\Desktop\di-t2-apphotel-dingo-masterv2\BDHotel with class loader sun.misc.Launcher$AppClassLoader@55f96302 
